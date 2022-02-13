@@ -4,7 +4,7 @@ A simple Rubik's Cube simulation.
 Don't know how to solve the Cube?
 You have problems finding and pressing multiple keys at the same time in your keyboard?
 
-Look no further. This game combines the classic 80's challenge with impossible to understand controls. Get ready to take a hard task and turn it into to a nearly impossible, highly annoying task.
+Look no further. This game combines the classic 80's challenge with impossible to understand controls. Get ready to take a hard task and turn it into to a nearly impossible, highly annoying one.
 
 Just [download](https://github.com/Josephblt/RubiksChallenge/releases/download/1.0/Rubik.s.Challenge.V1.0.zip "download"), run and have fun.
 
